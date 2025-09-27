@@ -2,7 +2,7 @@
 
 **`Futuro Desenvolvedor FullStack`**
 
-Me chamo **Wesley Olegario Ribeiro França Santos**, tenho 19 anos e sou apaixonado por tecnologia.  
+Me chamo **Wesley Olegario Ribeiro França Santos**, tenho 18 anos e sou apaixonado por tecnologia.  
 Concluí o ensino médio na escola **Eurico Gaspar Outras** e no próximo ano iniciarei minha jornada acadêmica no **IFMS**.  
 Atualmente, estou começando a aprender **desenvolvimento web**, estudando **HTML, CSS e JavaScript**, com o objetivo de me tornar desenvolvedor **FullStack**.  
 
@@ -18,14 +18,14 @@ Atualmente, estou começando a aprender **desenvolvimento web**, estudando **HTM
             src="https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white"
         />
     </a>
-    <a href="https://www.instagram.com/SEU-INSTA" target="_blank">
+    <a href="https://www.instagram.com/wesleyolegariobr" target="_blank">
         <img 
             alt="Instagram" 
             title="Meu Instagram" 
             src="https://img.shields.io/badge/Instagram-E4405F?style=for-the-badge&logo=instagram&logoColor=white"
         />
     </a>
-    <a href="https://www.tiktok.com/@SEU-TIKTOK" target="_blank">
+    <a href="https://www.tiktok.com/@wesleyolegariobr" target="_blank">
         <img 
             alt="TikTok" 
             title="Meu TikTok" 
