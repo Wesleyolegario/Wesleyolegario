@@ -1,16 +1,88 @@
-## Hi there 👋
+# 👨🏻‍💻 Wesley Olegario
 
-<!--
-**Wesleyolegario/Wesleyolegario** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+**`Futuro Desenvolvedor FullStack`**
 
-Here are some ideas to get you started:
+Me chamo **Wesley Olegario Ribeiro França Santos**, tenho 19 anos e sou apaixonado por tecnologia.  
+Concluí o ensino médio na escola **Eurico Gaspar Outras** e no próximo ano iniciarei minha jornada acadêmica no **IFMS**.  
+Atualmente, estou começando a aprender **desenvolvimento web**, estudando **HTML, CSS e JavaScript**, com o objetivo de me tornar desenvolvedor **FullStack**.  
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+---
+
+### 🌐 Conecte-se comigo
+
+<p align="left">
+    <a href="https://www.linkedin.com/in/SEU-LINK" target="_blank">
+        <img 
+            alt="LinkedIn" 
+            title="Meu LinkedIn" 
+            src="https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white"
+        />
+    </a>
+    <a href="https://www.instagram.com/SEU-INSTA" target="_blank">
+        <img 
+            alt="Instagram" 
+            title="Meu Instagram" 
+            src="https://img.shields.io/badge/Instagram-E4405F?style=for-the-badge&logo=instagram&logoColor=white"
+        />
+    </a>
+    <a href="https://www.tiktok.com/@SEU-TIKTOK" target="_blank">
+        <img 
+            alt="TikTok" 
+            title="Meu TikTok" 
+            src="https://img.shields.io/badge/TikTok-000000?style=for-the-badge&logo=tiktok&logoColor=white"
+        />
+    </a>
+</p>
+
+---
+
+### 🛠️ Tecnologias em Aprendizado
+
+<img 
+    align="left" 
+    alt="HTML" 
+    title="HTML" 
+    width="40px" 
+    style="padding-right: 10px;" 
+    src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/html5/html5-original.svg" 
+/>
+<img 
+    align="left" 
+    alt="CSS" 
+    title="CSS" 
+    width="40px" 
+    style="padding-right: 10px;" 
+    src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/css3/css3-original.svg" 
+/>
+<img 
+    align="left" 
+    alt="JavaScript" 
+    title="JavaScript" 
+    width="40px" 
+    style="padding-right: 10px;" 
+    src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/javascript/javascript-original.svg" 
+/>
+
+<br/>
+<br/>
+
+---
+
+### 📊 Estatísticas do GitHub
+
+<p>
+  <img 
+    align="left" 
+    alt="GitHub Stats" 
+    height="200" 
+    style="padding-right: 10px;" 
+    src="https://github-readme-stats.vercel.app/api?username=Wesleyolegario&show_icons=true&theme=tokyonight&include_all_commits=true&locale=pt-br" 
+  />
+
+  <img 
+      align="left" 
+      alt="Top Langs" 
+      height="200" 
+      src="https://github-readme-stats.vercel.app/api/top-langs/?username=Wesleyolegario&theme=tokyonight&layout=compact&custom_title=Tecnologias&langs_count=6" 
+  />
+</p>
