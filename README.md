@@ -1,8 +1,10 @@
-# 👨🏻‍💻 Wesley Olegario
+# 👨🏻‍💻 Wesley Olegário
 
 **`Futuro Desenvolvedor FullStack`**
 
-Me chamo **Wesley Olegario Ribeiro França Santos**, tenho **18 anos** e sou apaixonado por tecnologia.  
+💡 *"Transformando ideias em código, um passo de cada vez!"*
+
+Me chamo **Wesley Olegário Ribeiro França Santos**, tenho **18 anos** e sou apaixonado por tecnologia.  
 Concluí o ensino médio na escola **Eurico Gaspar Dutras** e, no próximo ano, iniciarei minha jornada acadêmica no **IFMS**.  
 
 Atualmente, estou começando a aprender **desenvolvimento web**, estudando **HTML**, **CSS** e **JavaScript**, com o objetivo de me tornar um desenvolvedor **FullStack**.
@@ -10,14 +12,14 @@ Atualmente, estou começando a aprender **desenvolvimento web**, estudando **HTM
 ---
 
 ## 💻 Sobre mim
-- Desenvolvedor Web Fullstack  
-- Experiência com **HTML | CSS | JavaScript | GitHub Pages**  
-- Buscando evoluir em **React, Node.js** e boas práticas de desenvolvimento  
+- 🌐 Desenvolvedor Web Fullstack  
+- ⚡ Experiência com **HTML | CSS | JavaScript | GitHub Pages**  
+- 🎯 Buscando evoluir em **React, Node.js** e boas práticas de desenvolvimento  
 
 ---
 
 ## 📍 Localização
-Naviraí, Mato Grosso do Sul - Brasil  
+📌 Naviraí, Mato Grosso do Sul - Brasil  
 
 ---
 
@@ -43,6 +45,13 @@ Naviraí, Mato Grosso do Sul - Brasil
             alt="TikTok" 
             title="Meu TikTok" 
             src="https://img.shields.io/badge/TikTok-000000?style=for-the-badge&logo=tiktok&logoColor=white"
+        />
+    </a>
+    <a href="https://wa.me/SEU-NUMERO" target="_blank">
+        <img 
+            alt="WhatsApp" 
+            title="Meu WhatsApp" 
+            src="https://img.shields.io/badge/WhatsApp-25D366?style=for-the-badge&logo=whatsapp&logoColor=white"
         />
     </a>
 </p>
