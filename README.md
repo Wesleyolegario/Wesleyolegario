@@ -2,9 +2,22 @@
 
 **`Futuro Desenvolvedor FullStack`**
 
-Me chamo **Wesley Olegario Ribeiro França Santos**, tenho 18 anos e sou apaixonado por tecnologia.  
-Concluí o ensino médio na escola **Eurico Gaspar Dutras** e no próximo ano iniciarei minha jornada acadêmica no **IFMS**.  
-Atualmente, estou começando a aprender **desenvolvimento web**, estudando **HTML, CSS e JavaScript**, com o objetivo de me tornar desenvolvedor **FullStack**.  
+Me chamo **Wesley Olegario Ribeiro França Santos**, tenho **18 anos** e sou apaixonado por tecnologia.  
+Concluí o ensino médio na escola **Eurico Gaspar Dutras** e, no próximo ano, iniciarei minha jornada acadêmica no **IFMS**.  
+
+Atualmente, estou começando a aprender **desenvolvimento web**, estudando **HTML**, **CSS** e **JavaScript**, com o objetivo de me tornar um desenvolvedor **FullStack**.
+
+---
+
+## 💻 Sobre mim
+- Desenvolvedor Web Fullstack  
+- Experiência com **HTML | CSS | JavaScript | GitHub Pages**  
+- Buscando evoluir em **React, Node.js** e boas práticas de desenvolvimento  
+
+---
+
+## 📍 Localização
+Naviraí, Mato Grosso do Sul - Brasil  
 
 ---
 
