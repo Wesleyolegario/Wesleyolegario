@@ -26,6 +26,13 @@ Atualmente, estou começando a aprender **desenvolvimento web**, estudando **HTM
 ### 🌐 Conecte-se comigo
 
 <p align="left">
+    <a href="https://github.com/Wesleyolegario" target="_blank">
+        <img 
+            alt="GitHub" 
+            title="Meu GitHub" 
+            src="https://img.shields.io/badge/GitHub-181717?style=for-the-badge&logo=github&logoColor=white"
+        />
+    </a>
     <a href="https://www.linkedin.com/in/wesleyolegario" target="_blank">
         <img 
             alt="LinkedIn" 
@@ -47,7 +54,7 @@ Atualmente, estou começando a aprender **desenvolvimento web**, estudando **HTM
             src="https://img.shields.io/badge/TikTok-000000?style=for-the-badge&logo=tiktok&logoColor=white"
         />
     </a>
-    <a href="https://wa.me/SEU-NUMERO" target="_blank">
+    <a href="https://wa.me/5567996959308" target="_blank">
         <img 
             alt="WhatsApp" 
             title="Meu WhatsApp" 
