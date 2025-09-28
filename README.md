@@ -11,7 +11,7 @@ Atualmente, estou começando a aprender **desenvolvimento web**, estudando **HTM
 ### 🌐 Conecte-se comigo
 
 <p align="left">
-    <a href="https://www.linkedin.com/in/SEU-LINK" target="_blank">
+    <a href="https://www.linkedin.com/in/wesleyolegario" target="_blank">
         <img 
             alt="LinkedIn" 
             title="Meu LinkedIn" 
